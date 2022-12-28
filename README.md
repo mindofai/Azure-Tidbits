@@ -1,2 +1,2 @@
-# Azure-Tidbits
+# Azure Tidbits
 Short step-by-step Azure service samples
